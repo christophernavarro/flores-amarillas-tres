@@ -22,13 +22,13 @@ body{
 }
 
 .botones a{
-    background-color: #0a2be9;
+    background-color: #ebfa22;
     padding: 9px;
     border-radius: 80px;
     -webkit-border-radius: 80px;
     -moz-border-radius: 80px;
     -ms-border-radius: 80px;
-    -o-border-radius: 80px;
+    -o-border-radius: 80px;;
 
 }
 
